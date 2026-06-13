@@ -287,9 +287,7 @@ The model performs best on **Konut** listings. The most difficult category is **
 ```text
 real-estate-price-prediction/
 │
-├── EzgiDonmez.ipynb
-├── EzgiDonmez.docx
-├── Project.pdf
+├── real_estate_price_pred.ipynb
 │
 ├── zingat2020_1.csv
 ├── zingat2020_2.csv
