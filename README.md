@@ -1,3 +1,9 @@
+## License
+
+This project is licensed under the MIT License for the source code.
+
+The datasets used in this project are provided for academic/course purposes and are not redistributed under this license. If you use this repository, please make sure that you have permission to access and use the original data files.
+
 # Real Estate Price Prediction
 
 This repository contains a machine learning project for predicting real estate property prices using the **Zingat 2020** dataset. The project was developed for the **DS 540 / ML1** course at Özyeğin University.
